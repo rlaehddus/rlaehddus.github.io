@@ -1,7 +1,8 @@
 h1{font-size: 40pt;font-family: fantasy; }
-          div{background-color: lightsteelblue;}
-          img{height: 350pt; width: 300pt;}
-          <!--html에서 class설정 후 .(class명){height~} 가능-->
-          .type1{font-size: 30pt;font-family: fantasy; color: rgb(122, 122, 199);}
-          .type2{ font-family: fantasy; color: rgb(90, 90, 160);}
-          *{text-align: center;}
+div{background-color: lightsteelblue;}
+img{height: 350pt; width: 300pt;}
+#ACADEMICMATTERS{font-size: 30pt;font-family: fantasy; color: rgb(122, 122, 199);}
+#ABOUTME{font-size: 30pt;font-family: fantasy; color: rgb(122, 122, 199);}
+#MYFAVORITES{font-size: 30pt;font-family: fantasy; color: rgb(122, 122, 199);}
+.type2{ font-family: fantasy; color: rgb(90, 90, 160);}
+*{text-align: center;}
